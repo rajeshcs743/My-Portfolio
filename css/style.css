@@ -413,11 +413,11 @@ header .navbar ul li a:hover{
     header{
         width:100vw;
     } 
-    heading{
-        margien: 0 3rem;
+    .heading {
+        margin: 0 3rem;
     }
     .about .row .counter .box{
-        witdh: 100%;
+        width: 100%;
     }
 
     
